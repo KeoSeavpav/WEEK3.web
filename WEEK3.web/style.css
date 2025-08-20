@@ -1,0 +1,22 @@
+#id{
+    color: red;
+}
+.Hobby{
+    color: green;
+    
+}
+img{
+position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 400px;
+    left: 400px;
+
+}
+section{
+    position: absolute;
+    margin: 500px;
+}
+#name{
+    color: red;
+}
